@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.endlessnetwork.whitehouse.desktop</id>
+  <name>White House Game</name>
+  <developer_name>Endless Studios</developer_name>
+  <summary>Hack and explore</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <url type="homepage">https://thethirdterminal.com</url>
+  <url type="bugtracker">https://community.endlessos.com/</url>
+  <description>
+    <p>Do not judge a book by its cover or lack of color! This time, you get to decide what color this world should be. Dive into the magical world of CSS and hack the world into a unique burst of color and light revealing hidden objects and clues. Learn basic CSS techniques used to color and set attributes to the 3D objects in this unique town. Want to paint the rest of the town? Well, get through the house first, and you might just get to leave through the front door.</p>
+  </description>
+  <releases>
+		<release version="0.37" date="2019-06-06"/>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">WH1.png</image>
+      <caption>Color the word!</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source">WH2.png</image>
+      <caption>Color the world</caption>
+    </screenshot>
+    <screenshot>
+      <image type="source">WH3.png</image>
+    </screenshot>
+  </screenshots>
+    <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <update_contact>nan@endlessnetwork.com</update_contact>
+</component>
