@@ -1,7 +1,5 @@
 #!/usr/bin/env xdg-open
-
 [Desktop Entry]
-Encoding=UTF-8
 Name=White House
 Comment=A game where you can learn CSS and color away
 Exec=com.endlessnetwork.whitehouse.sh
@@ -10,4 +8,3 @@ Terminal=false
 Type=Application
 Categories=Game;X-LearnToCode;
 Keywords=game;programming;puzzle;casual;
-Name[es_MX]=White House
