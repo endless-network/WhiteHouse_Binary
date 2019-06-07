@@ -16,15 +16,15 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <image type="source">WH1.png</image>
+      <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH1.png</image>
       <caption>Color the word!</caption>
     </screenshot>
     <screenshot>
-      <image type="source">WH2.png</image>
+      <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH2.png</image>
       <caption>Color the world</caption>
     </screenshot>
     <screenshot>
-      <image type="source">WH3.png</image>
+      <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH3.png</image>
     </screenshot>
   </screenshots>
     <content_rating type="oars-1.1">
