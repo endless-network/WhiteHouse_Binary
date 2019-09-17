@@ -12,7 +12,7 @@
     <p>Do not judge a book by its cover or lack of color! This time, you get to decide what color this world should be. Dive into the magical world of CSS and hack the world into a unique burst of color and light revealing hidden objects and clues. Learn basic CSS techniques used to color and set attributes to the 3D objects in this unique town. Want to paint the rest of the town? Well, get through the house first, and you might just get to leave through the front door.</p>
   </description>
   <releases>
-		<release version="0.37" date="2019-06-06"/>
+    <release version="1.175" date="2019-09-18"/>
   </releases>
   <screenshots>
     <screenshot type="default">
