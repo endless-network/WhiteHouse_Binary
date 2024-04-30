@@ -1,7 +1,7 @@
 #!/usr/bin/env xdg-open
 [Desktop Entry]
 Name=White House
-Comment=A game where you can learn CSS and color away
+Comment=Hack your world with CSS
 Exec=com.endlessnetwork.whitehouse.sh
 Icon=com.endlessnetwork.whitehouse
 Terminal=false
