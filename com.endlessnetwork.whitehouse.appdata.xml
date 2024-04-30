@@ -30,7 +30,7 @@
       <caption>Color the world</caption>
     </screenshot>
   </screenshots>
-    <content_rating type="oars-1.1">
+  <content_rating type="oars-1.1">
   </content_rating>
   <launchable type="desktop-id">com.endlessnetwork.whitehouse.desktop</launchable>
 </component>
