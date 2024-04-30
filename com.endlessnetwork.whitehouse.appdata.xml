@@ -17,16 +17,17 @@
     <release version="1.175" date="2019-09-18"/>
   </releases>
   <screenshots>
-    <screenshot type="default">
-      <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH1.png</image>
-      <caption>Color the word!</caption>
-    </screenshot>
     <screenshot>
+      <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH1.png</image>
+      <caption>Title screen</caption>
+    </screenshot>
+    <screenshot type="default">
       <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH2.png</image>
       <caption>Color the world</caption>
     </screenshot>
     <screenshot>
       <image>https://github.com/endless-network/WhiteHouse_Binary/raw/master/WH3.png</image>
+      <caption>Color the world</caption>
     </screenshot>
   </screenshots>
     <content_rating type="oars-1.1">
