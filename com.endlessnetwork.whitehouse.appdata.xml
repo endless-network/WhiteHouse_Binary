@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
   <id>com.endlessnetwork.whitehouse</id>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
   <name>White House</name>
   <developer_name>Endless Studios</developer_name>
   <summary>Hack your world with CSS</summary>
