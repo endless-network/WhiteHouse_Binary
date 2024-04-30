@@ -6,5 +6,5 @@ Exec=com.endlessnetwork.whitehouse.sh
 Icon=com.endlessnetwork.whitehouse
 Terminal=false
 Type=Application
-Categories=Game;X-LearnToCode;
+Categories=Education;Game;ComputerScience;
 Keywords=game;programming;puzzle;casual;
